@@ -25,7 +25,7 @@ Apasionado por la tecnología, la programación y el aprendizaje continuo. Actua
 
 1. **[Mascotech](https://github.com/tuusuario/mascotex)**  
     - **Tecnologías:** Node.js, Express, MySQL, HTML5, CSS3, Bootstrap  
-   - **Descripción:** Mascotex es una aplicación web diseñada para la gestión de mascotas. Su objetivo principal es permitir a los usuarios agregar, editar y eliminar mascotas dentro de un sistema de base de datos.  
+   - **Descripción:** Mascotech es una aplicación web diseñada para la gestión de mascotas. Su objetivo principal es permitir a los usuarios agregar, editar y eliminar mascotas dentro de un sistema de base de datos.  
    
      **Características clave:**  
      - **CRUD completo de mascotas:** Los usuarios pueden registrar, modificar y eliminar información de mascotas, como nombre, especie, edad, y dueño.  
