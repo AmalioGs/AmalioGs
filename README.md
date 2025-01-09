@@ -24,10 +24,20 @@ Apasionado por la tecnología, la programación y el aprendizaje continuo. Actua
 ### 🌟 Proyectos destacados:  
 
 1. **[Mascotech](https://github.com/tuusuario/mascotex)**  
-   Una aplicación web para la gestión de mascotas, desarrollada con Node.js, Express y MySQL. Incluye funcionalidades CRUD completas.  
+    - **Tecnologías:** Node.js, Express, MySQL, HTML5, CSS3, Bootstrap  
+   - **Descripción:** Mascotex es una aplicación web diseñada para la gestión de mascotas. Su objetivo principal es permitir a los usuarios agregar, editar y eliminar mascotas dentro de un sistema de base de datos.  
+   
+     **Características clave:**  
+     - **CRUD completo de mascotas:** Los usuarios pueden registrar, modificar y eliminar información de mascotas, como nombre, especie, edad, y dueño.  
+     - **Base de datos MySQL:** Los datos de las mascotas se almacenan de manera eficiente utilizando una base de datos MySQL.  
+     - **Interfaz amigable con React:** La interfaz de usuario fue desarrollada con **React**, proporcionando una experiencia dinámica y rápida para el usuario.  
+     - **Backend con Node.js y Express:** El backend está construido con **Node.js** y **Express**, proporcionando la lógica y las rutas para manejar las operaciones de datos.  
+     - **Autenticación básica de usuarios:** Los usuarios pueden crear una cuenta y acceder para gestionar la información de sus mascotas.    
 
 2. **[Calculadora en React + Backend](https://github.com/tuusuario/calculadora-react)**  
-   Esta aplicación combina un frontend en **React** con un backend en **Express** que permite interactuar con una base de datos MySQL. Además de las funciones matemáticas básicas, incluye la funcionalidad para crear usuarios mediante un formulario. Los datos de los usuarios se almacenan en la base de datos, y también es posible subir imágenes para guardarlas junto con la información del usuario.  
+   - **Tecnologías:** React, Express, MySQL, Multer  
+   - Descripción: Combina un frontend en **React** con un backend en **Express** para interactuar con una base de datos MySQL. Permite crear usuarios, almacenar datos y subir imágenes.
+
 
 
 ---
