@@ -34,7 +34,7 @@ Apasionado por la tecnología, la programación y el aprendizaje continuo. Actua
 ---
 
 ### 📫 ¡Conecta conmigo!  
-- **LinkedIn:** [Mi Perfil](https://linkedin.com/in/amaliogs)  
+- **LinkedIn:** [AmalioGs](https://linkedin.com/in/amaliogs)  
 - **Correo:** [amalio.suarez@gmail.com](amalio.suarez@gmail.com)  
 
 ---
