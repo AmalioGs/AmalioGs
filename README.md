@@ -34,7 +34,7 @@ Apasionado por la tecnología, la programación y el aprendizaje continuo. Actua
      - **Backend con Node.js y Express:** El backend está construido con **Node.js** y **Express**, proporcionando la lógica y las rutas para manejar las operaciones de datos.  
      - **Autenticación básica de usuarios:** Los usuarios pueden crear una cuenta y acceder para gestionar la información de sus mascotas.    
 
-2. **[Calculadora en React + Backend](https://github.com/AmalioGs/Calculadora)**  
+2. **[Calculadora Monopoly en React + Backend](https://github.com/AmalioGs/Calculadora)**  
    - **Tecnologías:** React, Express, MySQL, Multer  
    - Descripción: Combina un frontend en **React** con un backend en **Express** para interactuar con una base de datos MySQL. Permite crear usuarios, almacenar datos y subir imágenes.
 
