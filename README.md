@@ -18,7 +18,7 @@ Apasionado por la tecnología, la programación y el aprendizaje continuo. Actua
 
 ### 🌟 Proyectos destacados:  
 
-1. **[Mascotex](https://github.com/tuusuario/mascotex)**  
+1. **[Mascotech](https://github.com/tuusuario/mascotex)**  
    Una aplicación web para la gestión de mascotas, desarrollada con Node.js, Express y MySQL. Incluye funcionalidades CRUD completas.  
 
 2. **[Calculadora en React + Backend](https://github.com/tuusuario/calculadora-react)**  
