@@ -23,7 +23,7 @@ Apasionado por la tecnología, la programación y el aprendizaje continuo. Actua
 
 ### 🌟 Proyectos destacados:  
 
-1. **[Mascotech](https://github.com/tuusuario/mascotex)**  
+1. **[Mascotech](https://github.com/AmalioGs/Mascotech)**  
     - **Tecnologías:** Node.js, Express, MySQL, HTML5, CSS3, Bootstrap  
    - **Descripción:** Mascotech es una aplicación web diseñada para la gestión de mascotas. Su objetivo principal es permitir a los usuarios agregar, editar y eliminar mascotas dentro de un sistema de base de datos.  
    
