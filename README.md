@@ -27,7 +27,7 @@ Apasionado por la tecnología, la programación y el aprendizaje continuo. Actua
    Una aplicación web para la gestión de mascotas, desarrollada con Node.js, Express y MySQL. Incluye funcionalidades CRUD completas.  
 
 2. **[Calculadora en React + Backend](https://github.com/tuusuario/calculadora-react)**  
-   Esta aplicación combina un frontend en **React** con un backend en **Express** que permite interactuar con una base de datos MySQL. Además de las funciones matemáticas básicas, incluye la funcionalidad para crear usuarios mediante un formulario. Los datos de los usuarios (nombre, país, teléfono) se almacenan en la base de datos, y también es posible subir imágenes utilizando **Multer** para guardarlas junto con la información del usuario.  
+   Esta aplicación combina un frontend en **React** con un backend en **Express** que permite interactuar con una base de datos MySQL. Además de las funciones matemáticas básicas, incluye la funcionalidad para crear usuarios mediante un formulario. Los datos de los usuarios se almacenan en la base de datos, y también es posible subir imágenes para guardarlas junto con la información del usuario.  
 
 
 ---
