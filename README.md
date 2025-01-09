@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">via GIPHY</a></p>
+![GIF de presentación]([https://media.giphy.com/media/tu-gif-url.gif](https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u))
 
 # ¡Hola! Soy Amalio 👋  
 
