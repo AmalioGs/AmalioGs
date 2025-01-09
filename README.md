@@ -1,4 +1,4 @@
-![GIF de presentación]([https://media.giphy.com/media/tu-gif-url.gif](https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u))
+![GIF de presentación](https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif)
 
 # ¡Hola! Soy Amalio 👋  
 
