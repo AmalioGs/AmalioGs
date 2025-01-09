@@ -1,8 +1,9 @@
+# ¡Hola! Soy Amalio 👋  
+
 <div align="center">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200"/>
 </div>
 
-# ¡Hola! Soy Amalio 👋  
 
 ### 🚀 Full Stack Web Developer en formación  
 Apasionado por la tecnología, la programación y el aprendizaje continuo. Actualmente, estoy terminando el bootcamp de Full Stack Web Developer en Socratech, donde he adquirido habilidades en una variedad de tecnologías.  
